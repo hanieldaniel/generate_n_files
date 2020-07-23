@@ -1,2 +1,3 @@
-# generate_n_files
+# Generate N Files
+
 Python script to generate n number of files of any extension
